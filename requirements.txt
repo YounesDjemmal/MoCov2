@@ -1,0 +1,7 @@
+argparse
+numpy
+torch
+torchvision
+pytorch-lightning
+lightly
+tensorboard
